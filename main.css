@@ -13,6 +13,8 @@
     max-width: 420px;
 
 }
+
+
 .product_1 {
     margin-bottom: 20px;
     width: 100%;
@@ -29,14 +31,15 @@
 }
 .content {
     text-align: start;
-    max-width: 150px;
+    width: 150px;
     display: flex;
     flex-direction: column;
     gap: 20px;
 
 }
 .product_name {
-    /* max-width: 150px; */
+    max-width: 150px;
+    padding-top: 50%;
     color: #4E5150;
 font-family: Montserrat;
 font-size: 18px;
